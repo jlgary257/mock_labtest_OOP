@@ -11,6 +11,14 @@ public class Subscriber
 	}
 	public void setSubscriber(boolean isSubscriber)
 	{
-		
+		this.
+	}
+	public char getType()
+	{
+		return type;
+	}
+	public void setType(char type)
+	{
+		this.type = type;
 	}
 }
