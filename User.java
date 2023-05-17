@@ -22,12 +22,14 @@ public class User
 	{
 		this.subscriber = subscriber;
 	}
-	public Games[15] getGames()
+	public Game [] getGames()
 	{
+			return game;
 		
 	}
-	public void setGames(Game games[15])
+	public void setGames(Game game[])
 	{
+		this.game = game;
 		
 	}
 	

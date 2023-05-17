@@ -17,7 +17,7 @@ public class Game
 	{
 		return price;
 	}
-	public setPrice(double price)
+	public void setPrice(double price)
 	{
 		this.price = price;
 	}

@@ -7,11 +7,11 @@ public class Subscriber
 	{}
 	public boolean isSubscriber()
 	{
-
+		return isSubscriber;
 	}
 	public void setSubscriber(boolean isSubscriber)
 	{
-		this.
+		this.isSubscriber = isSubscriber;
 	}
 	public char getType()
 	{
